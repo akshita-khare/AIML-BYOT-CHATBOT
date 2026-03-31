@@ -123,4 +123,10 @@ python app.py
 
 <h2 align="c<img width="1920" height="1036" alt="Screenshot 2026-03-31 121600" src="https://github.com/user-attachments/assets/8ec500b6-a583-44ad-a86e-1989e1422f99" />
 ente<img width="1920" height="1037" alt="Screenshot 2026-03-31 120923" src="https://github.com/user-attachments/assets/252fb58a-db4d-4941-aaf2-9259ce8eb3a8" />
-r">🎉 Thank You for Using the Semantic FAQ Chatbot!</h2>
+
+  
+r">🎉<img width="1920" height="1036" alt="Screenshot 2026-03-31 121600" src="https://github.com/user-attachments/assets/07f76a9d-921a-45ac-9730-6b780f0b5866" />
+
+<img width="1920" height="1037" alt="Screenshot 2026-03-31 121636" src="https://github.com/user-attachments/assets/0a492a9d-b29f-4ba2-8a4e-ab685cdcd6b0" />
+
+ Thank You for Using the Semantic FAQ Chatbot!</h2>
